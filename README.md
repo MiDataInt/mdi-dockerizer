@@ -168,10 +168,10 @@ following conventions (change the versions as needed). The timestamp can be
 used to infer the version of the relatively unchanging mdi-dockerizer repo.
 
 >**name**  
->mdi-dockerizer_ubuntu-22.04_docker-3.10.0_yyyy-mm-dd
+>mdi-dockerizer_ubuntu-22.04_docker-25.0.2_yyyy-mm-dd
 >
 >**description**  
->Michigan Data Interface, dockerizer image, Ubuntu 22.04, Docker 3.10.0, yyyy-mm-dd
+>Michigan Data Interface, dockerizer image, Ubuntu 22.04, Docker 25.0.2, yyyy-mm-dd
 
 ---
 ## Instructions for using the dockerizer AMI
